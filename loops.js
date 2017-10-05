@@ -1,4 +1,4 @@
-var a = array(25);
+var a = array[25];
 function forLoop(a){
   for (var i = 1; i < 25; i ++) {
     if (i = 1)
